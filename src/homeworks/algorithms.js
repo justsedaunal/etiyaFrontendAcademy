@@ -70,7 +70,7 @@ function perfectNumber() {
       if (i % j == 0) {
         total = total + j;
       }
-    }
+    }  
 
     if (i == total) {
       console.log(i + "is a perfect number");
